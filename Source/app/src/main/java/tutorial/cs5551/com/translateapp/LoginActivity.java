@@ -52,7 +52,7 @@ public class LoginActivity extends AppCompatActivity {
         boolean validationFlag = false;
         //Verify if the username and password are not empty.
         if(!userName.isEmpty() && !password.isEmpty()) {
-            if(userName.equals("ruthvic") && password.equals("team11")) {
+            if(userName.equals("sirisha") && password.equals("team11")) {
                 validationFlag = true;
             }
         }
